@@ -1,6 +1,6 @@
 # LinkedIn Profile Scraper using Scrapy and Scrapy Rotating Proxies
 
-![Scrapy Logo](https://scrapy.org/img/logo_02.png)
+![Scrapy Logo](https://th.bing.com/th/id/R.046a54a1580183dc0922655b300a8a4d?rik=KeNQmuu3KzXsbQ&pid=ImgRaw&r=0)
 
 This project demonstrates how to scrape LinkedIn profiles using Scrapy and Scrapy Rotating Proxies. Scrapy is a powerful web crawling and scraping framework, and Scrapy Rotating Proxies allows us to easily rotate IP addresses and avoid IP blocking during scraping
 
